@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Sort</string>
+    <string name="app_config">Configurações</string>
+    <string name="app_ver_numeros">Ver Números</string>
+    <string name="app_new_ordenation">Novo Sorteio</string>
+    <string name="str_alterar">Alterar</string>
+
 </resources>
+

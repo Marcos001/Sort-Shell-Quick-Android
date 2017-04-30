@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="my_style">
+        <item name="android:background">@drawable/screen_border</item>
+        <item name="android:textColor">@color/color_branca</item>
+    </style>
+
 </resources>

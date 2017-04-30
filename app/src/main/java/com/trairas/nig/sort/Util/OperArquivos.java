@@ -80,7 +80,7 @@ public class OperArquivos {
         }catch (Exception erro){
             u.print("Erro ao Ler.");
         }
-    return "Dimas\n";
+    return "Em Branco\n";
     }
 
 

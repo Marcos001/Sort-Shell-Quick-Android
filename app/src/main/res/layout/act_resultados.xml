@@ -8,7 +8,7 @@
 
     <Button
         android:id="@+id/res_bt_1"
-        style="@style/Widget.AppCompat.Button.Colored"
+        style="@style/my_style"
         android:layout_width="210dp"
         android:layout_height="42dp"
         android:layout_marginLeft="8dp"

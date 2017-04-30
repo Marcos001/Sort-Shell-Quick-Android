@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/app_config"
+        />
+
+    <item
+        android:id="@+id/action_ver_numeros"
+        android:orderInCategory="100"
+        android:title="@string/app_ver_numeros"
+        />
+
+    <item
+        android:id="@+id/action_new_sort"
+        android:orderInCategory="100"
+        android:title="@string/app_new_ordenation"
+        />
+
+</menu>
